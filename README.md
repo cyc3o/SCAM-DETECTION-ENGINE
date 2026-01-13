@@ -1,4 +1,4 @@
-![IMAGE](https://img.shields.io/badge/PYTHON-3.9%2B-BLUE)![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-SUCCESS)![LICENSE](https://img.shields.io/badge/LICENSE-MIT-BLUE)
+![PYTHON](https://img.shields.io/badge/PYTHON-3.9%2B-BLUE)![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-SUCCESS)![LICENSE](https://img.shields.io/badge/LICENSE-MIT-BLUE)
 
 
 🛡️ SCAM DETECTION ENGINE
@@ -104,6 +104,7 @@ THE AUTHOR IS NOT RESPONSIBLE FOR ANY MISUSE
 IF YOU FIND THIS PROJECT USEFUL,
 PLEASE STAR ⭐ THE REPOSITORY
 AND HELP SPREAD CYBER AWARENESS 🛡️
+
 
 
 
