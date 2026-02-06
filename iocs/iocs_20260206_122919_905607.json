@@ -1,0 +1,13 @@
+{
+  "domains": [
+    "http://account-security-verification[.]com/auth"
+  ],
+  "ip_addresses": [],
+  "emails": [],
+  "phones": [],
+  "bitcoin_addresses": [],
+  "ethereum_addresses": [],
+  "upi_ids": [],
+  "payment_handles": [],
+  "generated_at": "20260206_122919_905607"
+}
