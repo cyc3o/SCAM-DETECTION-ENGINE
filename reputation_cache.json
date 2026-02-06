@@ -1,0 +1,11 @@
+{
+  "domains": {
+    "http://secure-kyc-update.xyz/login": 1,
+    "http://secure-microsoft-verification.com/login": 4,
+    "http://account-security-verification[.]com/auth": 1
+  },
+  "phones": {},
+  "emails": {},
+  "upi_ids": {},
+  "payment_handles": {}
+}
