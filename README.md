@@ -1,5 +1,8 @@
 <div align="center">
 
+![PYTHON](https://img.shields.io/badge/PYTHON-3.9%2B-BLUE)![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-SUCCESS)![LICENSE](https://img.shields.io/badge/LICENSE-MIT-BLUE)
+
+
 <h1><b>🛡️ CYBER THREAT INTELLIGENCE ENGINE</b></h1>
 
 <b>OFFLINE SOC-GRADE SCAM DETECTION ENGINE</b><br>
@@ -148,4 +151,5 @@ RECOMMENDATION: DO NOT CLICK LINKS OR SHARE DETAILS
 ## <b>⭐ SUPPORT</b>
 
 <b>IF YOU FIND THIS PROJECT USEFUL,</b>  
+
 <b>PLEASE STAR ⭐ THE REPOSITORY AND HELP SPREAD CYBER AWARENESS.</b>
