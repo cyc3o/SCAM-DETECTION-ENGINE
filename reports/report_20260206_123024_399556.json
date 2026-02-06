@@ -1,0 +1,33 @@
+{
+  "date": "2026-02-06 12:30:24",
+  "verdict": "\u001b[38;5;82m\u2705 LOW RISK\u001b[0m",
+  "threat_level": "LOW",
+  "risk_score": 19,
+  "confidence": 0.16,
+  "attack_types": [
+    "UNCLASSIFIED SOCIAL ENGINEERING"
+  ],
+  "region_detected": [
+    "GLOBAL"
+  ],
+  "language_style": [
+    "ENGLISH"
+  ],
+  "categories": [
+    "\u001b[38;5;226mJOB / EMPLOYMENT SCAMS\u001b[0m"
+  ],
+  "reasons": [
+    "\u001b[38;5;208mCHARACTERISTICS OF FRAUDULENT JOB OFFERS.\u001b[0m"
+  ],
+  "entities": {
+    "domains": [],
+    "emails": [],
+    "phones": [],
+    "ip_addresses": [],
+    "bitcoin_addresses": [],
+    "ethereum_addresses": [],
+    "upi_ids": [],
+    "payment_handles": []
+  },
+  "message_length": 1317
+}
