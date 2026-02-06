@@ -73,7 +73,9 @@
 
 ### <b>RUN COMMAND</b>
 ```bash
-python CheatDetector.py
+git clone https://github.com/cyc3o/SCAM-DETECTION-ENGINE.git
+cd SCAM-DETECTION-ENGINE
+python main.py
 ```
 
 ---
@@ -153,4 +155,5 @@ RECOMMENDATION: DO NOT CLICK LINKS OR SHARE DETAILS
 
 <b>IF YOU FIND THIS PROJECT USEFUL,</b>  
 <b>PLEASE STAR ⭐ THE REPOSITORY AND HELP SPREAD CYBER AWARENESS.</b>
+
 
