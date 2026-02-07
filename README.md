@@ -4,7 +4,7 @@
 
 ![ENGINE PREVIEW](https://github.com/cyc3o/SCAM-DETECTION-ENGINE/blob/main/img%2Fui.png)
 
-<h1><b>🛡️ CYBER THREAT INTELLIGENCE ENGINE</b></h1>
+<h1><b>🛡️ 𝗥ɪꜱᴋ 𝗜ɴᴛᴇʟʟɪɢᴇɴᴄᴇ 𝗦ʏꜱᴛᴇᴍ</b></h1>
 
 <b>OFFLINE SOC-GRADE SCAM DETECTION ENGINE</b><br>
 <b>ANALYZES SMS, EMAILS, AND CHAT MESSAGES USING</b><br>
